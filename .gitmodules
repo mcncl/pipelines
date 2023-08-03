@@ -1,0 +1,3 @@
+[submodule "pipeline_basic"]
+	path = pipeline_basic
+	url = https://github.com/mcncl/pipeline_basic
