@@ -1,3 +1,6 @@
 [submodule "pipeline_basic"]
 	path = pipeline_basic
 	url = https://github.com/mcncl/pipeline_basic
+[submodule "pipeline_missing-dependency-block"]
+	path = pipeline_missing-dependency-block
+	url = https://github.com/mcncl/pipeline_missing-dependency-block
